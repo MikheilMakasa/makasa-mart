@@ -1,0 +1,30 @@
+.addItem__form {
+  background: var(--primary-color);
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.addItem__btn {
+  background: #fff;
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+.addItem__form p {
+  margin-top: 30px;
+}
+
+.addItem__form p a {
+  color: rgba(255, 255, 255, 0.735);
+}
+
+.addItem__form input[type='file'] {
+  color: #fff;
+  cursor: pointer;
+  margin-left: -40px;
+}
+
+.spinner {
+  display: flex;
+  margin: auto;
+}
